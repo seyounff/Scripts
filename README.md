@@ -1,2 +1,1 @@
-# Scripts
-Scripts
+#악용금지
